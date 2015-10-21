@@ -1,0 +1,18 @@
+%0 Journal Article
+%D 1999
+%@ 0022-4715
+%J Journal of Statistical Physics
+%V 95
+%N 1-2
+%R 10.1023/A:1004589714161
+%T A Gallavotti–Cohen-Type Symmetry in the Large Deviation Functional for Stochastic Dynamics
+%U http://dx.doi.org/10.1023/A%3A1004589714161
+%I Kluwer Academic Publishers-Plenum Publishers
+%8 1999-04-01
+%K fluctuation theorem
+%K current fluctuations
+%K asymmetric exclusion process
+%A Lebowitz, JoelL.
+%A Spohn, Herbert
+%P 333-365
+%G English

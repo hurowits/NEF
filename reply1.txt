@@ -1,0 +1,112 @@
+The referees have based their recommendations on the "general interest" of the paper and on the superficial similarity of the manuscript to a previous submission. We disagree with the referees views on both points, as explained below. Since the recommendations do not focus on the main results of the paper, namely the statistical properties of the current due to a log wide distribution, accordingly we treat this re-submission as an appeal. 
+
+We belive that an unprejudiced reviewer would agree that the argumets of the referees are not valid. Furthermore, we hope to convince the reviewer that the Ms is in fact of "general interest" and possesses the "critial mass" for a PRL publication. 
+
+
+Relation to a previous publication
+=================================
+
+Referee A identifies this Ms with a past submission that he/she had refereed two years ago. The current submission focuses on a subject that was not covered in the past submission, namely the statistics of the current in the Sinai regime. Apparently he/she did not notice that this past submission had been published in Europhysics Letters, and is cited as Ref[**]. Therefore he/she has concluded that "the authors could have informed their scientific community two years ago already about their findings [forming] a very nice contribution to Physical Review."
+
+This failure to make a distinction between the two submissions is apparently the main reason for the recommendations of referee A. We believe that the recommendation whether to accept of reject our manuscript should be based on the new results presented in it, not on known equations which we must include since they are used in the subsequent analysis.   
+
+
+Novely of the present submission 
+===================================
+
+The novelty of the present work is not related to the derivation of Eq(11). This is stated explicitly:
+"The NESS equations are quite simple and can be solved using elementary algebra as in [19, 20, 24, 26]".
+
+The novelty of the present work is related to the observation that Sinai physics is reflected in the statistics of the current, as illustrated in Fig***. This statement is highly non-trivial as explained in  the text: with superficial analysis the statistics looks normal.
+
+To say that Physical Reviews Letters should not publish several Letters that concern the same model is manifestly not an acceptable standpoint. To make a relevant analogy: if one Letter explains how to calculate "conductance" of a ring, does it mean that one should not allow the publication of a subsequent Letter that reports "universal conductance fluctuations"?
+Indeed our previous Letter and this Ms concern the same model. But clearly the subject of the present 
+paper, namely, reflection of glassiness in the *statistics* of the current, is novel, and has never been addressed to the best of our knowledge.
+
+
+Contradicting secondary statement of referee A
+================================================
+
+The referee writes:
+"The same formula for the current is derived by using, as far as I can see, the same method, just rewritten in a different way."
+
+Here we cite what we write in the Ms with regard to this formula: 
+
+"Adding bonds in series: The NESS equations are quite simple and can be solved using elementary algebra
+as in [19, 20, 24, 26], or optionally using the network formalism for stochastic systems [34-36]. 
+Below we propose a generalized resistor-network approach that allows to obtain a more illuminating version for the NESS, that will provide better insight for the statistical analysis."
+
+We emphasise again that the novelty of our Ms is not relatd to the formula for the current, 
+but to the anslysis of the current statistics. In the text we were very careful to make it 
+clear what is "old" and what is "new". We therefore do not believe that the coment above 
+
+
+General interest
+==================
+
+When we wrote our previous Letter Ref** we were not aware of theoretical and experimental work that concerns essentially the same model. We neither were aware that some earlier versions of the current formula have been published by other researchers (now cited and proper credit is given).
+
+We emphasize again - by now we found out that this type of model is of "general interest", including experimental work. 
+
+Referee A spreads over many items his objection to the general interest in the "physics" of our model.
+We find his/her criticism very strange. 
+
+Our "rate equation" model is evidently very common as detailed in the introduction. To say that the 
+references that we cite do not establish this point does not make sense. In particular we explicitly specify reference to both theoretical and experimental work that contain the same formula for current... 
+
+We also note that log wide distributions are common in hopping processes because g ~ exp(-B) and also since matrix elements of quasi-integrable systems are subject to approximate selection rules that cause most matrix elements to be small, resulting in a very wide distribution.
+
+Referee A defines Sinai diffusion in a very restrictive way when he writes: "In my view, Sinai diffusion is a very special case due to asymmetric transition rates." 
+
+We have no ides even how to address such criticism: 
+Why should asymmetric transition rates be more fundamental than the current which is due to the ring topology? We strongly believe that the fact that Sinai type behavior emerges when the transition rates are ordered in a ring is very interesting, and that it is justified to call the regime in which the log wide distribution of transition rates plays a role a Sinai regime.
+
+We are convinced that our introduction provides the proper "zoom in" that motivates our analysis.
+Clearly previous experiments did not address the statistics, and emphasized only the non-linearity 
+of current vs bias. Evidently our Ms might provide a new perspective for experimental study:
+not only the "signal" but also the "statistics" are informative.
+
+We point out that in the electrical context theoretical work had indeed motivated experiments that were aimed at exploring statistics of currents in mesoscopic rings [PRL**]. We see no reasons to insist that a similar perspective should not be encouraged with regard to non-coherent transport. 
+
+
+Contradicting argument of referee B
+======================================
+
+Eseentailly the argument is that some mathematical approximations would be uderstood only by experts. 
+"In the end, the math tricks get in the way [of the genral reader]".
+
+We would like to claim that the existence of a stressing stage in the algebra should not be 
+regarded as a valid argument against PRL publction. 
+
+The main message of this paper, as demostarted in Fig***, is that the statistics of the current 
+contains fingerprints of "glassiness" related to Sinai physics. This message should be understood 
+and appreciated by any "genreal reader", irrespective of technicalities. 
+
+
+Response to items of referee B
+===============================
+
+The referee complains that he cannot make sense of our mathematics, namely, why to write sums as integrals. But then he/she gives the answer: "Apparently because this makes possible the trick that appears in Eq.(13)...".
+
+So there is nothing for us to answer here, just to point out that the previous versions of the 
+same formula, Refs[], are not tractable for the purpose of our statistical analysis. 
+
+In any case we followed the referees suggestion to better clarify the model / notational issue.
+
+
+Presentation issues / List of changes
+======================================
+
+There were only 4 action items with regard 
+to the presentation:
+
+[A5,B1]
+Both referees wrote that former Fig1, the "artistic" illustration of the model, is not helpful. 
+We therefore moved it to the supplementary and used the space for a more detailed explanation of the model 
+as suggested by referee B.
+
+[A7]
+Color code in Fig2b (now Fig1b) is now explained.
+
+[B2]
+The word "tangible" has been replaced by "tractable". 
